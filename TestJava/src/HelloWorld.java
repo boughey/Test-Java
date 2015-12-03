@@ -9,6 +9,8 @@ class HelloWorld
 		//This prints output to the screen
 		System.out.println("Hello "+name);
 		System.out.println("Welcome "+name2);
+		
+		//This is to test GIT changes
 	}
 
 }
